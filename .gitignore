@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/dsPIC30F4013_HelloWorld.X/build/
+/dsPIC30F4013_HelloWorld.X/dist/
